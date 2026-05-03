@@ -88,7 +88,7 @@ This project is designed to be easily managed and developed with the assistance 
 
 ### Installation
 
-If you do not have the Gemini CLI installed, you can find installation instructions [here](https://gemini.google.com/cli).
+If you do not have the Gemini CLI installed, you can find installation instructions [here](https://geminicli.com/).
 
 ### Usage
 

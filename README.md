@@ -81,3 +81,22 @@ After running this command, open your browser to `http://127.0.0.1:8000`.
 ## Code Overview
 
 The core logic of the agent is defined in `customer_support/agent.py`.
+
+## Developing with Gemini CLI
+
+This project is designed to be easily managed and developed with the assistance of the Gemini Command Line Interface (CLI). The Gemini CLI provides interactive assistance for coding tasks, documentation, and more.
+
+### Installation
+
+If you do not have the Gemini CLI installed, you can find installation instructions [here](https://gemini.google.com/cli).
+
+### Usage
+
+The Gemini CLI can help you with various development tasks within this project, such as:
+
+*   **Code Generation:** Generate new code or modify existing code based on natural language prompts.
+*   **Refactoring:** Assist in refactoring code for better structure and readability.
+*   **Documentation:** Generate documentation for your code.
+*   **Debugging:** Help understand and fix issues in your code.
+
+To interact with the Gemini CLI, simply describe your task or ask questions in your command line terminal.
